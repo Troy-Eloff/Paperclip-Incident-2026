@@ -41,7 +41,7 @@ This project helped me better understand how cybersecurity involves more than ju
 
 The full report includes my vulnerability analysis, threat models, security policies, incident response procedures, and supporting research.
 
-**[View Full Paperclip Security Analysis Report](Final Report.pdf)**
+**[View Full Paperclip Security Analysis Report](Final%20Report.pdf)**
 
 ---
 
